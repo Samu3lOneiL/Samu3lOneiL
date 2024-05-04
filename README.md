@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my profile👋
+
+### My name Is Samuel Lima, I am (16) years old 😄
+### I am a student of (ALURA) 
+### I am developing my (JAVASCRIPT LANGUAGE) 
+### I use this space to my organization and sharing my projects developed
+
+### My contact Is : 0000110120249Xsp@al.educacao.sp.gov.br 📫
+ 
 
 <!--
 **Samu3lOneiL/Samu3loneiL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
